@@ -1,0 +1,22 @@
+1. What branches exist in this project? 
+master
+package
+bower
+index
+landing
+landing-ru
+
+added: answer
+
+2. What branch has been merged into master?
+index
+
+
+3. How many commits (in total) does the repository have?
+
+8
+
+
+4. What commits belong to branch package that don't belong to the branch master?
+
+locked
